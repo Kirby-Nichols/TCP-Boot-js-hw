@@ -1,0 +1,72 @@
+body{
+    text-align: center;
+    color: black;
+    font-size: 18px;
+}
+
+h3{
+    text-decoration: underline;
+    }
+
+    .boxesRow{
+        height: 300px;
+    }
+    .boxesRow div{
+        height: 100%;
+    }
+
+    .firstdiv{
+        background: red;
+        border: 3px solid black;
+    }
+
+    .firstdivnew{
+        background:pink;
+        border: 5px solid orange
+    }
+
+    .changeAllColors{
+        background:black;
+        border: 10px dotted cadetblue;
+    }
+    
+    .seconddiv{
+        background: blue;
+        border: 3px dashed yellow;
+        margin: 20px;
+        padding: 50px;
+
+    }
+
+    .seconddivnew{
+        background:pink;
+        border: 5px solid orange
+    }
+
+    .changeAllColors{
+        background:grey;
+        border: 10px dotted cadetblue;
+    }
+
+    .thirddiv{
+        background: limegreen;
+        border: 3px solid purple;
+    }
+
+    .thirddivnew{
+        background:peru;
+        border: 3px dotted black;
+    }
+
+    
+    .changeTitle{
+        color: blue;
+        text-decoration: underline;
+    }
+
+    .rowBtns span{
+        background: gray;
+        padding: 5px 10px;
+    }
+
+    
