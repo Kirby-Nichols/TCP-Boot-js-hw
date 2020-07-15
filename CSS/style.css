@@ -18,11 +18,16 @@ h3{
     .firstdiv{
         background: red;
         border: 3px solid black;
+
+
+
+
     }
 
     .firstdivnew{
         background:pink;
-        border: 5px solid orange
+        border: 10px solid orange;
+        padding: 80px;
     }
 
     .changeAllColors{
@@ -32,15 +37,17 @@ h3{
     
     .seconddiv{
         background: blue;
-        border: 3px dashed yellow;
-        margin: 20px;
-        padding: 50px;
+        border: 3px solid black;
+        margin: 0 50px;
+        padding: 80px;
+    
 
     }
 
     .seconddivnew{
         background:pink;
-        border: 5px solid orange
+        border: 3px solid orange;
+        padding: 3px;
     }
 
     .changeAllColors{
@@ -51,6 +58,7 @@ h3{
     .thirddiv{
         background: limegreen;
         border: 3px solid purple;
+        
     }
 
     .thirddivnew{
